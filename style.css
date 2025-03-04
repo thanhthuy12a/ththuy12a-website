@@ -1,5 +1,5 @@
-
-form
-{
-  background-color : # FFC1C1 ;
-}
+h2 { color:# FFC1C1 ; font-family : Verdana}
+h3 { color:# FFAEB9 ; }
+label {font-size: 15px;font-weight: bold;}
+input {background-color:yellow;}
+textarea {background-color: ivory;}
