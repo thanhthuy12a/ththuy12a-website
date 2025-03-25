@@ -3,3 +3,17 @@ h3 { color:# FFAEB9 ; }
 label {font-size: 15px;font-weight: bold;}
 input {background-color:yellow;}
 textarea {background-color: ivory;}
+.header { color : red ; background-color : #FFCC99 ; text-align : center ; padding : 5px ;}
+. topnav {
+overflow: hidden; background-color:
+#FF9999;}
+. topnav a {
+float: left;
+display: block; color: #FFCCFF; text-align: center; padding: 14px 16px; text-decoration: none;
+}
+. topnav a:hover {
+background-color: #FFCCCC; color: black;}
+.cot { float : left;}
+.cot1.side {width : 30% ;}
+.cot2.side {width : 70% ;}
+.footer{color : red ; background-color : #FFCC99 ; text-align : center ; padding : 2px ;}
